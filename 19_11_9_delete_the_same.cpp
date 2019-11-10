@@ -7,6 +7,7 @@
 输出描述:
 输出删除后的字符串
 */
+
 #include <iostream>
 #include <string>
 #include <vector>
