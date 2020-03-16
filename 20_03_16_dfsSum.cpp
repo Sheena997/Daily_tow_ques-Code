@@ -11,7 +11,9 @@
 输入
 5 5
 输出
-1 4<br/>2 3<br/>5
+1 4
+2 3
+5
 */
 #include <iostream>
 #include <vector>
